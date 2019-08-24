@@ -23,7 +23,7 @@ const info = {
   mutations: {}
 }
 
-
+//export default
 export default new Vuex.Store({
   modules:{
     info: info,
